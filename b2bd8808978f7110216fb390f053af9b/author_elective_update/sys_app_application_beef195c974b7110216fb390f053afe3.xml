@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 13:02:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>beef195c974b7110216fb390f053afe3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Luciano Menu</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gestão de Inventário" source="x_1244342_gest_o_0">b2bd8808978f7110216fb390f053af9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">b2bd8808978f7110216fb390f053af9b</sys_scope>
+        <sys_update_name>sys_app_application_beef195c974b7110216fb390f053afe3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 13:02:35</sys_updated_on>
+        <title>Luciano Menu</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">b2bd8808978f7110216fb390f053af9b</application>
+        <file_path/>
+        <instance_id>f5a595f0dbf2fd9005ef1729139619d4</instance_id>
+        <instance_name>dev225978</instance_name>
+        <name>sys_app_application_beef195c974b7110216fb390f053afe3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-07 13:02:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>beef195c974b7110216fb390f053afe3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Luciano Menu</sys_name><sys_overrides/><sys_package display_value="Gestão de Inventário" source="x_1244342_gest_o_0">b2bd8808978f7110216fb390f053af9b</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">b2bd8808978f7110216fb390f053af9b</sys_scope><sys_update_name>sys_app_application_beef195c974b7110216fb390f053afe3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-07 13:02:35</sys_updated_on><title>Luciano Menu</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>357882688</payload_hash>
+        <record_name>Luciano Menu</record_name>
+        <reverted_from/>
+        <source>babd8808978f7110216fb390f053af9d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 13:02:35</sys_created_on>
+        <sys_id>01ffd55c974b7110216fb390f053afde</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c445f75c90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 13:02:35</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>45ffd55cdb4b7110d55bd1a15d98e7dd</update_guid>
+        <update_guid_history>45ffd55cdb4b7110d55bd1a15d98e7dd:357882688</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Luciano Menu">49d22150978b7110216fb390f053afd6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 13:15:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>42eb1b8c72254c94a29a68393704adb9</sys_id>
+        <sys_metadata>beef195c974b7110216fb390f053afe3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Luciano Menu</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1244342_gest_o_0">b2bd8808978f7110216fb390f053af9b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">b2bd8808978f7110216fb390f053af9b</sys_scope>
+        <sys_scope_delete display_value="">31268d1b72104c3c96eae74c57229304</sys_scope_delete>
+        <sys_update_name>sys_app_application_beef195c974b7110216fb390f053afe3</sys_update_name>
+        <sys_update_version display_value="sys_app_application_beef195c974b7110216fb390f053afe3">01ffd55c974b7110216fb390f053afde</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 13:15:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
